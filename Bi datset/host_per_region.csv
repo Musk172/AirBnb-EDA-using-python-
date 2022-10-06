@@ -1,0 +1,16 @@
+,room_type,Region ,id,number_of_reviews
+0,Entire home/apt,Central Region,3738,46298
+1,Entire home/apt,East Region,131,2387
+2,Entire home/apt,North Region,53,306
+3,Entire home/apt,North-East Region,64,608
+4,Entire home/apt,West Region,146,744
+5,Private room,Central Region,2223,31116
+6,Private room,East Region,366,7166
+7,Private room,North Region,142,1600
+8,Private room,North-East Region,272,3537
+9,Private room,West Region,378,2596
+10,Shared room,Central Region,348,4841
+11,Shared room,East Region,11,9
+12,Shared room,North Region,9,4
+13,Shared room,North-East Region,10,12
+14,Shared room,West Region,16,44

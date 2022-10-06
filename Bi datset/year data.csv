@@ -1,0 +1,19 @@
+,room_type,Year,count,Avg_availability_rate
+1,Entire home/apt,2014,3,0.0
+2,Entire home/apt,2015,21,66.0
+3,Entire home/apt,2016,90,69.0
+4,Entire home/apt,2017,139,112.0
+5,Entire home/apt,2018,316,190.0
+6,Entire home/apt,2019,2074,205.0
+8,Private room,2013,1,365.0
+9,Private room,2014,6,332.0
+10,Private room,2015,47,101.0
+11,Private room,2016,129,164.0
+12,Private room,2017,209,158.0
+13,Private room,2018,371,205.0
+14,Private room,2019,1466,211.0
+16,Shared room,2015,5,146.0
+17,Shared room,2016,4,167.0
+18,Shared room,2017,19,274.0
+19,Shared room,2018,60,294.0
+20,Shared room,2019,189,297.0
